@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.home h1 {
+  color: coral;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.about {
+  width: 600px;
+  margin: 100px auto;
+}
+.about h2{
+  text-align: center;
+  color: coral;
+}
+.about p{
+  margin-top: 50px;
+  text-align: justify;
+  line-height: 2rem;
+  font-size: medium;
+}
+.posts {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 80px;
+}
+.error-wrapper{
+  width: 60%;
+  margin: 70px auto;
+}
